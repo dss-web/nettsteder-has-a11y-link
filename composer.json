@@ -1,0 +1,8 @@
+{
+  "name": "dss-web/nettsteder-has-a11y-link",
+  "description": "Check if a site has a link to the accessibility statement.",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/dss-web/dss-has-a11y-link",
+  "license": "GPL-2.0-or-later",
+  "require": {}
+}
